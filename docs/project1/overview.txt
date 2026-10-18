@@ -1,0 +1,12 @@
+Project 1: Boolean Algebra
+
+This project includes a series of .hdl files outlining the hdl boolean logic behind a series of increasingly more complicated
+chips/gates. There are comments atop each hdl file outlining their origin with the NAND2Tetris project. All the code encompassed
+by the "PARTS:" subheading within each file is the code produced by me, everything above is provided structural code.
+
+The hdl files are completed in order of gate complexity, and more complex gates are expected to be programmed with gates 
+programmed earlier within the project to avoid needless visual complexity.
+
+To enrich my understanding of the logic at work, I have attached Multisim files displaying the gate logic out of nothing but NAND2
+gates. Some of the 16-bit gates have been excluded from this due to Multisims limits when it comes to displaying multi bit gates
+sensibly.
