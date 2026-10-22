@@ -2,4 +2,6 @@
 
 Nand2Tetris is a project‑based computer science course in which a complete computer system is built from the ground up, starting only with a single NAND gate and progressively constructing all the essential layers of computing—including logic gates, arithmetic units, memory, a CPU and machine language, followed by an assembler, a virtual machine, a compiler, a basic operating system, and finally small applications, establishing an end‑to‑end understanding of how hardware and software interact to form a functioning computer.
 
-This repository contains all the files and progress I have made in completing the NAND2Tetris project. Amidst the essential elements of completing the project, I have also included supporting documentation including logic gate diagrams, truth tables, etc.
+The course is broken up into 12 Projects, upon completion of each project I will push my work onto the GitHub repository
+
+This repository contains all the files and progress I have made in completing the NAND2Tetris project. Amidst the essential elements of completing the project, I have also included some extended supporting documentation in the form of logic gate diagrams, truth tables, etc.
